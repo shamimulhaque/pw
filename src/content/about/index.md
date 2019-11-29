@@ -3,17 +3,19 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
+  - TypeScript
   - HTML & (S)CSS
   - React
-  - Vue
   - Node.js
   - Express
-  - GraphQL
-  - NativeScript
+  - Redux
+  - RxJS
+  - Python/Flask
+  - GraphQL/REST
+  - Docker
+  - Jest/Enzyme/RTL
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Hello! I'm Golam Rabbani, a fullstack engineer based in Dhaka, Bangladesh who enjoys building things that live on the internet and people's devices. I develop exceptional web & mobile apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends for more than 5 years.
 
 Here are a few technologies I've been working with recently:
