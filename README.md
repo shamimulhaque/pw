@@ -4,9 +4,7 @@
 <h1 align="center">
   rabbani.dev
 </h1>
-<p align="center">
-  The fourth iteration of <a href="https://rabbani.dev" target="_blank">rabbani.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
+
 <p align="center">
   Previous iterations:
   <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
