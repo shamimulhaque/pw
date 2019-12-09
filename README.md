@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  rabbani.dev
+  shamim.com.bd
 </h1>
 
 <p align="center">
