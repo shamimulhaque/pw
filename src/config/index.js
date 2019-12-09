@@ -1,36 +1,36 @@
 module.exports = {
-  siteTitle: 'Golam Rabbani | Software Engineer',
+  siteTitle: 'Shamim Ahmad | Software Engineer',
   siteDescription:
-    'Golam Rabani is a Full Stack Software Engineer specializing in building (and occasionally designing) exceptional, high-quality websites and applications for both mobile and web.',
+    'Shamim Ahmad is a Full Stack Software Engineer specializing in building (and occasionally designing) exceptional, high-quality websites and applications for both mobile and web.',
   siteKeywords:
-    'Golam Rabbani, software engineer, front-end engineer, web developer, javascript, react developer',
-  siteUrl: 'https://rabbani.dev',
-  siteLanguage: 'en_US',
-  name: 'Golam Rabbani',
-  location: 'Karlsruhe, Germany',
-  email: 'mgorabbani@gmail.com',
-  github: 'https://github.com/mgorabbani',
-  twitterHandle: '@mgorabbani',
+    'Shamim Ahmad, software engineer, front-end engineer, web developer, javascript, react developer',
+  siteUrl: 'https://sh4mim.netlify.com/',
+  siteLanguage: 'en_GB',
+  name: 'Shamim Ahmad',
+  location: 'Rajshahi, Bangladesh',
+  email: 'shamim@outlook.jp',
+  github: 'https://github.com/shamimulhaque',
+  twitterHandle: '@sh4mim_',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/mgorabbani',
+      url: 'https://github.com/shamimulhaque',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/mgorabbani',
+      url: 'https://www.linkedin.com/in/sh4mim',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/mgorabbani',
+      name: 'Facebook',
+      url: 'https://www.facebook.com/sh4mim',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/mgorabbani',
+      url: 'https://www.instagram.com/sh4mim_',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/mgorabbani',
+      url: 'https://twitter.com/sh4mim_',
     },
   ],
 
