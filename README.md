@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  shamim.com.bd
+  sh4mim.netlify.com
 </h1>
 
 <p align="center">
