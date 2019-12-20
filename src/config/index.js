@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Shamim Ahmad | Software Engineer',
+  siteTitle: 'Shamim Ahmad',
   siteDescription:
     'Shamim Ahmad is a Full Stack Software Engineer specializing in building (and occasionally designing) exceptional, high-quality websites and applications for both mobile and web.',
   siteKeywords:
