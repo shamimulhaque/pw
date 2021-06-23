@@ -9,7 +9,7 @@ module.exports = {
   name: 'Shamim Ahmad',
   location: 'Rajshahi, Bangladesh',
   email: 'shamim@outlook.jp',
-  github: 'https://github.com/shamimulhaque',
+  github: 'https://github.com/shamimulhp',
   twitterHandle: '@sh4mim_',
   socialMedia: [
     {
